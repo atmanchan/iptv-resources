@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-20T11:27:01.090Z",
-  "sourceCount": 4,
-  "totalChannels": 730,
-  "validChannels": 329,
+  "generatedAt": "2026-08-20T11:42:44.217Z",
+  "sourceCount": 7,
+  "totalChannels": 1315,
+  "validChannels": 463,
   "sources": [
     {
       "id": "iptv-org-zho",
@@ -15,13 +15,28 @@
       "category": "中文"
     },
     {
-      "id": "apaoyun-live",
-      "url": "https://raw.githubusercontent.com/apaoyun/IPTV/refs/heads/main/live.m3u",
+      "id": "dailyiptv-tier-a",
+      "url": "https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/tier_a.m3u",
       "category": "中文"
     },
     {
-      "id": "dailyiptv-tier-a",
-      "url": "https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/tier_a.m3u",
+      "id": "best-fan-cn-all",
+      "url": "https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_all.m3u8",
+      "category": "中文"
+    },
+    {
+      "id": "bestk-iptv",
+      "url": "https://raw.githubusercontent.com/bestK/iptv/main/iptv.m3u",
+      "category": "中文"
+    },
+    {
+      "id": "dailyiptv-cctv",
+      "url": "https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/cctv.m3u",
+      "category": "央視"
+    },
+    {
+      "id": "dailyiptv-full",
+      "url": "https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/full_validated.m3u",
       "category": "中文"
     }
   ]
