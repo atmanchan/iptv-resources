@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-08-20T11:27:01.090Z",
+  "sourceCount": 4,
+  "totalChannels": 730,
+  "validChannels": 329,
+  "sources": [
+    {
+      "id": "iptv-org-zho",
+      "url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+      "category": "中文"
+    },
+    {
+      "id": "vbskycn-iptv4",
+      "url": "https://live.zbds.top/tv/iptv4.m3u",
+      "category": "中文"
+    },
+    {
+      "id": "apaoyun-live",
+      "url": "https://raw.githubusercontent.com/apaoyun/IPTV/refs/heads/main/live.m3u",
+      "category": "中文"
+    },
+    {
+      "id": "dailyiptv-tier-a",
+      "url": "https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/tier_a.m3u",
+      "category": "中文"
+    }
+  ]
+}
