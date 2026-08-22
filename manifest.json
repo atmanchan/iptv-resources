@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-22T07:18:37.996Z",
-  "sourceCount": 11,
-  "totalChannels": 1491,
-  "validChannels": 389,
-  "filteredChannels": 389,
+  "generatedAt": "2026-08-22T07:30:36.469Z",
+  "sourceCount": 15,
+  "totalChannels": 3574,
+  "validChannels": 2242,
+  "filteredChannels": 2242,
   "sources": [
     {
       "id": "iptv-org-zho",
@@ -58,6 +58,26 @@
     {
       "id": "imDazui-tw-hk-mo",
       "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港澳门202506.m3u",
+      "category": "港澳台"
+    },
+    {
+      "id": "freetv-china",
+      "url": "https://t.freetv.fun/m3u/china.m3u",
+      "category": "中文"
+    },
+    {
+      "id": "freetv-taiwan",
+      "url": "https://t.freetv.fun/m3u/taiwan.m3u",
+      "category": "港澳台"
+    },
+    {
+      "id": "freetv-hong-kong",
+      "url": "https://t.freetv.fun/m3u/hong_kong.m3u",
+      "category": "港澳台"
+    },
+    {
+      "id": "freetv-macao",
+      "url": "https://t.freetv.fun/m3u/macao.m3u",
       "category": "港澳台"
     }
   ]
