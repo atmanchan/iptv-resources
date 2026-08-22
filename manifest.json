@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-08-20T11:42:44.217Z",
-  "sourceCount": 7,
-  "totalChannels": 1315,
-  "validChannels": 463,
+  "generatedAt": "2026-08-22T06:21:31.293Z",
+  "sourceCount": 6,
+  "totalChannels": 1232,
+  "validChannels": 400,
+  "filteredChannels": 11,
+  "templateEntries": 36,
+  "perChannelLimit": 3,
+  "speedMeasured": 0,
   "sources": [
     {
       "id": "iptv-org-zho",
@@ -33,11 +37,6 @@
       "id": "dailyiptv-cctv",
       "url": "https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/cctv.m3u",
       "category": "央視"
-    },
-    {
-      "id": "dailyiptv-full",
-      "url": "https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/full_validated.m3u",
-      "category": "中文"
     }
   ]
 }
