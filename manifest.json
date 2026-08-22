@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-22T06:21:31.293Z",
-  "sourceCount": 6,
-  "totalChannels": 1232,
-  "validChannels": 400,
+  "generatedAt": "2026-08-22T06:57:07.557Z",
+  "sourceCount": 10,
+  "totalChannels": 1310,
+  "validChannels": 233,
   "filteredChannels": 11,
   "templateEntries": 36,
   "perChannelLimit": 3,
-  "speedMeasured": 0,
+  "speedMeasured": 146,
   "sources": [
     {
       "id": "iptv-org-zho",
@@ -37,6 +37,26 @@
       "id": "dailyiptv-cctv",
       "url": "https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/cctv.m3u",
       "category": "央視"
+    },
+    {
+      "id": "dailyiptv-full",
+      "url": "https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/full_validated.m3u",
+      "category": "中文"
+    },
+    {
+      "id": "hk-sammy",
+      "url": "https://raw.githubusercontent.com/sammy0101/hk-iptv-auto/refs/heads/main/hk_live.m3u",
+      "category": "港澳台"
+    },
+    {
+      "id": "iptv-org-hk",
+      "url": "https://iptv-org.github.io/iptv/countries/hk.m3u",
+      "category": "港澳台"
+    },
+    {
+      "id": "iptv-org-tw",
+      "url": "https://iptv-org.github.io/iptv/countries/tw.m3u",
+      "category": "港澳台"
     }
   ]
 }
