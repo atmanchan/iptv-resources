@@ -1,12 +1,9 @@
 {
-  "generatedAt": "2026-08-22T07:13:56.664Z",
+  "generatedAt": "2026-08-22T07:18:37.996Z",
   "sourceCount": 11,
   "totalChannels": 1491,
-  "validChannels": 196,
-  "filteredChannels": 15,
-  "templateEntries": 36,
-  "perChannelLimit": 3,
-  "speedMeasured": 115,
+  "validChannels": 389,
+  "filteredChannels": 389,
   "sources": [
     {
       "id": "iptv-org-zho",
