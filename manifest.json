@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-08-22T07:02:19.927Z",
-  "sourceCount": 10,
-  "totalChannels": 1310,
-  "validChannels": 363,
-  "filteredChannels": 363,
+  "generatedAt": "2026-08-22T07:13:56.664Z",
+  "sourceCount": 11,
+  "totalChannels": 1491,
+  "validChannels": 196,
+  "filteredChannels": 15,
+  "templateEntries": 36,
+  "perChannelLimit": 3,
+  "speedMeasured": 115,
   "sources": [
     {
       "id": "iptv-org-zho",
@@ -53,6 +56,11 @@
     {
       "id": "iptv-org-tw",
       "url": "https://iptv-org.github.io/iptv/countries/tw.m3u",
+      "category": "港澳台"
+    },
+    {
+      "id": "imDazui-tw-hk-mo",
+      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港澳门202506.m3u",
       "category": "港澳台"
     }
   ]
