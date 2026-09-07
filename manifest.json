@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-27T14:27:37.180Z",
-  "sourceCount": 20,
-  "totalChannels": 3384,
-  "validChannels": 1151,
-  "filteredChannels": 847,
-  "speedMeasured": 812,
+  "generatedAt": "2026-09-07T05:50:33.947Z",
+  "sourceCount": 17,
+  "totalChannels": 1541,
+  "validChannels": 505,
+  "filteredChannels": 433,
+  "speedMeasured": 394,
   "sources": [
     {
       "id": "iptv-org-zho",
@@ -82,29 +82,14 @@
       "category": "港澳台"
     },
     {
-      "id": "iptv-org-jp",
-      "url": "https://iptv-org.github.io/iptv/countries/jp.m3u",
-      "category": "日本"
+      "id": "iptv-org-sg",
+      "url": "https://iptv-org.github.io/iptv/countries/sg.m3u",
+      "category": "新加坡"
     },
     {
-      "id": "iptv-org-kr",
-      "url": "https://iptv-org.github.io/iptv/countries/kr.m3u",
-      "category": "韩国"
-    },
-    {
-      "id": "iptv-org-us",
-      "url": "https://iptv-org.github.io/iptv/countries/us.m3u",
-      "category": "美国"
-    },
-    {
-      "id": "iptv-org-uk",
-      "url": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-      "category": "英国"
-    },
-    {
-      "id": "iptv-org-au",
-      "url": "https://iptv-org.github.io/iptv/countries/au.m3u",
-      "category": "澳洲"
+      "id": "iptv-org-my",
+      "url": "https://iptv-org.github.io/iptv/countries/my.m3u",
+      "category": "马来西亚"
     }
   ]
 }
