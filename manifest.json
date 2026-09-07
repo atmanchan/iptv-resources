@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-07T05:50:33.947Z",
-  "sourceCount": 17,
-  "totalChannels": 1541,
-  "validChannels": 505,
-  "filteredChannels": 433,
-  "speedMeasured": 394,
+  "generatedAt": "2026-09-07T06:50:37.086Z",
+  "sourceCount": 18,
+  "totalChannels": 2291,
+  "validChannels": 582,
+  "filteredChannels": 528,
+  "speedMeasured": 471,
   "sources": [
     {
       "id": "iptv-org-zho",
@@ -80,6 +80,11 @@
       "id": "freetv-macao",
       "url": "https://t.freetv.fun/m3u/macao.m3u",
       "category": "港澳台"
+    },
+    {
+      "id": "iptv-tw-4gtv",
+      "url": "https://raw.githubusercontent.com/LinWei630718/iptvtw/main/4gtv.m3u",
+      "category": "台湾"
     },
     {
       "id": "iptv-org-sg",
